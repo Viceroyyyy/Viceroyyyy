@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="https://uploads.laborx.com/gig/J1XGTRm1qTqGo855uIILkYOhLCpGB0tz.gif"  />
+<img align="right" height="200" src="https://uploads.laborx.com/gig/J1XGTRm1qTqGo855uIILkYOhLCpGB0tz.gif"  />
 
 ###
 
