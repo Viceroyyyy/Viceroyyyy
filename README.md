@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋! My name is Devesh</h1>
 
-###
+<h1 align="center" width="70%">Hi 👋! My name is Devesh <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Viceroyyyy.Viceroyyyy"></h1>
+  
+<!--   <p align="right"> <img src="https://komarev.com/ghpvc/?username=viceroyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="viceroyyyy" /> </p> -->
 
-<img align="right" height="200" src="https://uploads.laborx.com/gig/J1XGTRm1qTqGo855uIILkYOhLCpGB0tz.gif"  />
-
-###
+<hr/>
+<div>
+<img align="right" height="250" width="350" src="https://uploads.laborx.com/gig/J1XGTRm1qTqGo855uIILkYOhLCpGB0tz.gif" />
 
 <h4 align="center">🔭 I’m currently working on Javascript Projects<br>🌱 I’m currently learning ReactJS<br>📫 How to reach me: deveshagnihotri03@gmail.com</h4>
-
-###
+</div>
 
 <br clear="both">
+<hr/>
 
-<div align="center">
+
+<div align="center" style="padding:20px">
+  <h3>Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
@@ -29,28 +32,26 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
 </div>
-
-###
-
-<br clear="both">
-
+<hr/>
+<!-- <br clear="both"> -->
 <div align="center">
+  <h3>Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Viceroyyyy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Viceroyyyy&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viceroyyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Viceroyyyy/Viceroyyyy/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
+<hr/>
+<!-- <br clear="both"> -->
 <div align="center">
+<h3>Contributions: </h3>
+<img src="https://raw.githubusercontent.com/Viceroyyyy/Viceroyyyy/output/snake.svg" alt="Snake animation" />
+</div>
+<hr/>
+
+<!-- <br clear="both"> -->
+<div align="center">
+  <h3>Socials:</h3>
   <a href="https://www.instagram.com/devesh1427/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
@@ -63,8 +64,5 @@
   </a>
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
+<hr/>
+<h1 align="center">Thank you for the Visit!! Do checkout my repos😊</h1>
