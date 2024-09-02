@@ -48,7 +48,7 @@
 <!-- <br clear="both"> -->
 <div align="center">
 <h3>Contributions: </h3>
-<img src="https://raw.githubusercontent.com/Viceroyyyy/Viceroyyyy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Viceroyyyy/Viceroyyyy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 <hr/>
 
