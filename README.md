@@ -1,5 +1,8 @@
 
-<h1 align="center" width="70%">Hi 👋! My name is Devesh <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Viceroyyyy.Viceroyyyy"></h1>
+<h1 align="center" width="80%">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&center=true&width=603&lines=Hello!!+Namaste!!+Konnichiwa!!+Bonjour!!%F0%9F%91%8B+;My+name+is+Devesh+%F0%9F%98%8A;Welcome+to+my+Github+Profile!!" alt="Typing SVG" /></a>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Viceroyyyy.Viceroyyyy">
+</h1>
   
 <!--   <p align="right"> <img src="https://komarev.com/ghpvc/?username=viceroyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="viceroyyyy" /> </p> -->
 
@@ -56,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <a href="deveshagnihotri03@gmail.com" target="_blank">
+  <a href="mailto:deveshagnihotri03@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/devesh-agnihotri-b6a206242" target="_blank">
@@ -65,4 +68,4 @@
 </div>
 
 <hr/>
-<h1 align="center">Thank you for the Visit!! Do checkout my repos😊</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&center=true&width=603&lines=Thank+you+for+the+Visit!!+Do+checkout+my+repos%F0%9F%98%8A;Give+a+star+if+you+like+them+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a></h1>
