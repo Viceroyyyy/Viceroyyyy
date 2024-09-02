@@ -2,9 +2,9 @@
 
 
 <h1 align="center" width="80%">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&center=true&width=603&lines=Hello!!+Namaste!!+Konnichiwa!!+Bonjour!!%F0%9F%91%8B+;My+name+is+Devesh+%F0%9F%98%8A;Welcome+to+my+Github+Profile!!" alt="Typing SVG" /></a>
-  
+<!--   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&center=true&width=603&lines=Hello!!+Namaste!!+Konnichiwa!!+Bonjour!!%F0%9F%91%8B+;My+name+is+Devesh+%F0%9F%98%8A;Welcome+to+my+Github+Profile!!" alt="Typing SVG" /></a> -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=28&center=true&vCenter=true&width=603&height=70&duration=4000&lines=Hello!!+Namaste!!+Konnichiwa!!+Bonjour!!+👋;+I'm+Devesh+Agnihotri!+😊;+Welcome+to+my+Github+Profile!!" />
 </h1>
   
 <!--   <p align="right"> <img src="https://komarev.com/ghpvc/?username=viceroyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="viceroyyyy" /> </p> -->
@@ -71,4 +71,7 @@
 </div>
 
 <hr/>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&center=true&width=603&lines=Thank+you+for+the+Visit!!+Do+checkout+my+repos%F0%9F%98%8A;Give+a+star+if+you+like+them+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a></h1>
+<h1 align="center">
+<!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&center=true&width=603&lines=Thank+you+for+the+Visit!!+Do+checkout+my+repos%F0%9F%98%8A;Give+a+star+if+you+like+them+%E2%98%BA%EF%B8%8F" alt="Typing SVG" /></a> -->
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=28&center=true&vCenter=true&width=603&height=70&duration=4000&lines=Thank+you+for+the+Visit!!+Do+checkout+my+repos+✌🏻;+Give+a+star+if+you+like+them+😊" />
+</h1>
