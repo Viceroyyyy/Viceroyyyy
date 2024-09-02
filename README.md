@@ -1,7 +1,10 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Viceroyyyy.Viceroyyyy">
+
 
 <h1 align="center" width="80%">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&center=true&width=603&lines=Hello!!+Namaste!!+Konnichiwa!!+Bonjour!!%F0%9F%91%8B+;My+name+is+Devesh+%F0%9F%98%8A;Welcome+to+my+Github+Profile!!" alt="Typing SVG" /></a>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Viceroyyyy.Viceroyyyy">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&center=true&width=603&lines=Hello!!+Namaste!!+Konnichiwa!!+Bonjour!!%F0%9F%91%8B+;My+name+is+Devesh+%F0%9F%98%8A;Welcome+to+my+Github+Profile!!" alt="Typing SVG" /></a>
+  
 </h1>
   
 <!--   <p align="right"> <img src="https://komarev.com/ghpvc/?username=viceroyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="viceroyyyy" /> </p> -->
